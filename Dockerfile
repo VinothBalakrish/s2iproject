@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM redhat/ubi8
 MAINTAINER vinothbalakrishna vinod.balak20@gmail.com>
 RUN apt update && \
     apt install -y iputils-ping iproute2
