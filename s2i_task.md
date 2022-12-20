@@ -23,3 +23,4 @@ spec:
       # Find the image build instructions in ./Dockerfile
       dockerfilePath: Dockerfile
       ```
+![image](https://user-images.githubusercontent.com/92629578/208564854-df699549-1e3e-40b4-afe8-80bdd53f7d6c.png)
