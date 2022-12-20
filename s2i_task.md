@@ -27,3 +27,7 @@ spec:
 
 ![image](https://user-images.githubusercontent.com/92629578/208565723-83660e15-ac05-4168-9ec4-bb9668c0bedb.png)
 
+## task 2
+gitghub: create index.html file
+
+![image](https://user-images.githubusercontent.com/92629578/208566596-08385f72-6e44-48cf-86a7-0ff330179c46.png)
