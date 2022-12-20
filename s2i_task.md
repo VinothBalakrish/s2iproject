@@ -24,3 +24,6 @@ spec:
       dockerfilePath: Dockerfile
       ```
 ![image](https://user-images.githubusercontent.com/92629578/208564854-df699549-1e3e-40b4-afe8-80bdd53f7d6c.png)
+
+![image](https://user-images.githubusercontent.com/92629578/208565723-83660e15-ac05-4168-9ec4-bb9668c0bedb.png)
+
