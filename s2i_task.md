@@ -31,3 +31,5 @@ spec:
 gitghub: create index.html file
 
 ![image](https://user-images.githubusercontent.com/92629578/208566596-08385f72-6e44-48cf-86a7-0ff330179c46.png)
+
+![image](https://user-images.githubusercontent.com/92629578/208567145-51e92701-b0c4-4ffe-92ac-a6ac2a965591.png)
